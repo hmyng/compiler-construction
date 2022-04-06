@@ -3,7 +3,7 @@
 #include <stdbool.h>
 #include <stdlib.h>
 
-#include "dllist.c"
+#include "doubleLinkList.c"
 
 treetype searchTreeByWord(treetype T, char *word)
 {
