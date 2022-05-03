@@ -1,9 +1,3 @@
-/* Scanner
- * @copyright (c) 2008, Hedspi, Hanoi University of Technology
- * @author Huu-Duc Nguyen
- * @version 1.0
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -298,4 +292,3 @@ void printToken(Token *token) {
   case SB_RSEL: printf("SB_RSEL\n"); break;
   }
 }
-
